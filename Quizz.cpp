@@ -1,20 +1,31 @@
 
 #include <Quizz.h>
+#include <Grammar.h>
 
 Quizz::Quizz(std::vector<Verb::VerbTuple> & vocabulary)
    : Vocabulary(vocabulary) { }
 
-std::string Quizz::makeQuestion(std::string verb, std::string tense, std::string person) {
-  auto vt = find(verb);
-  std::string question = verb + " (" + person + ") - to " + vt.Present; // infinitive?
-  question += "\n" + Grammar::personsText[person] + " ";
-  if (tense.compare("PRET") == 0 or tense.compare("IMP") == 0 ) {
+std::string Quizz::makeQuestion(Verb::VerbTuple & vt, int tense, int person) {
+  auto question = vt.VerbName;
+  question += " (" + Grammar::personsText[person] + " " + Grammar::tensesText[tense];
+  question +=  ") - to " + vt.Present; // infinitive?
+  question += "\n" + Grammar::personsQText[person] + " " + Grammar::tensesQText[tense] + " ";
+  if (tense == 1)
     question += vt.Past;
-  } else {
+  else
     question += vt.Present;
-  }
-  question += " every day.";
+  question += " every day." ;
   return question;
+}
+
+void Quizz::printStats() {
+  if (stats.NumberofQuestions == 0)
+    return;
+
+  printf("You got %.0f%% correct (%d out of %d)\n",
+         100.0 * stats.CorrectAnswers/stats.NumberofQuestions,
+         stats.CorrectAnswers, stats.NumberofQuestions);
+  printf("Your longest streak was %d\n", stats.MaxStreak);
 }
 
 

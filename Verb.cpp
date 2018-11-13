@@ -33,6 +33,18 @@ std::vector<Verb::VerbTuple> Verb::loadfile(std::string filename) {
   return result;
 }
 
+
+Verb::VerbTuple Verb::findVerb(std::string verb, std::vector<Verb::VerbTuple> verbList) {
+  Verb::VerbTuple res("", "", "");
+  for (auto & vt : verbList) {
+    if (vt.VerbName.compare(verb) == 0) {
+      res = vt;
+      break;
+    }
+  }
+  return res;
+}
+
 ///
 bool Verb::isAr(std::string infinitive) {
   if (infinitive.size() < 2) {

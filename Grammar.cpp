@@ -5,12 +5,24 @@ std::map <std::string, int> Grammar::tenses = {
   {"PRES", 0}, {"PRET", 1}, {"IMP",  2}, {"COND", 3}, {"FUT",  4}
 };
 
+std::vector<std::string> Grammar::tensesText = {
+  "PRES", "PRET", "IMP", "COND", "FUT"
+};
+
+std::vector<std::string> Grammar::tensesQText = {
+  "", "", "used to", "would", "will"
+};
+
 std::map <std::string, int> Grammar::persons = {
   {"1s", 0}, {"2s", 1}, {"3s", 2}, {"1p", 3}, {"2p", 4}, {"3p", 5}
 };
 
-std::map <std::string, std::string> Grammar::personsText = {
-  {"1s", "I"}, {"2s", "you"}, {"3s", "he/she/it/you"}, {"1p", "we"}, {"2p", "you"}, {"3p", "they"}
+std::vector <std::string> Grammar::personsText = {
+  "1s", "2s", "3s", "1p", "2p", "3p"
+};
+
+std::vector <std::string> Grammar::personsQText = {
+  "I", "you", "he/she/it", "we", "you(pl)", "they"
 };
 
 // Regular -ar

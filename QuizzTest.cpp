@@ -23,7 +23,8 @@ TEST_F(QuizzTest, CheckQuizzData) {
   Quizz myquizz(vocab);
 
   for (auto & entry : QuizzData) {
-    auto res = myquizz.makeQuestion(entry.verb, entry.tense, entry.person);
+    auto vt = myverb.findVerb(entry.verb, vocab);
+    auto res = myquizz.makeQuestion(vt, Grammar::tenses[entry.tense], Grammar::persons[entry.person]);
     printf("%s\n", res.c_str());
     ASSERT_EQ(myverb.conjugate(entry.verb, entry.tense, entry.person), entry.conjugation);
   }

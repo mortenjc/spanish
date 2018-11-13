@@ -1,4 +1,3 @@
-
 #pragma once
 
 #include <vector>
@@ -16,6 +15,8 @@ public:
   };
 
   std::vector<VerbTuple> loadfile(std::string filename);
+  VerbTuple findVerb(std::string verb, std::vector<Verb::VerbTuple> verbList);
+
   bool isAr(std::string infinitive);
   bool isIrEr(std::string infinitive);
   std::string conjugate(std::string);
