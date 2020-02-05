@@ -1,6 +1,7 @@
 
 #include <Quizz.h>
 #include <Grammar.h>
+#include <Trace.h>
 
 Quizz::Quizz(std::vector<Verb::VerbTuple> & vocabulary)
    : Vocabulary(vocabulary) { }

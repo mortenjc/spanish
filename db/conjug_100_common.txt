@@ -1,312 +1,312 @@
-# abrir regular open
+# abrir regular open opened
  abro abres abre abrimos abrís abren
  abrí abriste abrió abrimos abristeis abrieron
  abría abrías abría abríamos abríais abrían
  abriría abrirías abriría abriríamos abriríais abrirían
  abriré abrirás abrirá abriremos abriréis abrirán
 
-# acabar regular finish
+# acabar regular finish finished
  acabo acabas acaba acabamos acabáis acaban
  acabé acabaste acabó acabamos acabasteis acabaron
  acababa acababas acababa acabábamos acababais acababan
  acabaría acabarías acabaría acabaríamos acabaríais acabarían
  acabaré acabarás acabará acabaremos acabaréis acabarán
 
-# aceptar regular accept
+# aceptar regular accept accepted
  acepto aceptas acepta aceptamos aceptáis aceptan
  acepté aceptaste aceptó aceptamos aceptasteis aceptaron
  aceptaba aceptabas aceptaba aceptábamos aceptabais aceptaban
  aceptaría aceptarías aceptaría aceptaríamos aceptaríais aceptarían
  aceptaré aceptarás aceptará aceptaremos aceptaréis aceptarán
 
-# alcanzar irregular reach
+# alcanzar irregular reach reached
  alcanzo alcanzas alcanza alcanzamos alcanzáis alcanzan
  alcancé alcanzaste alcanzó alcanzamos alcanzasteis alcanzaron
  alcanzaba alcanzabas alcanzaba alcanzábamos alcanzabais alcanzaban
  alcanzaría alcanzarías alcanzaría alcanzaríamos alcanzaríais alcanzarían
  alcanzaré alcanzarás alcanzará alcanzaremos alcanzaréis alcanzarán
 
-# aparecer irregular appear
+# aparecer irregular appear appeared
  aparezco apareces aparece aparecemos aparecéis aparecen
  aparecí apareciste apareció aparecimos aparecisteis aparecieron
  aparecía aparecías aparecía aparecíamos aparecíais aparecían
  aparecería aparecerías aparecería apareceríamos apareceríais aparecerían
  apareceré aparecerás aparecerá apareceremos apareceréis aparecerán
 
-# ayudar regular help
+# ayudar regular help helped
  ayudo ayudas ayuda ayudamos ayudáis ayudan
  ayudé ayudaste ayudó ayudamos ayudasteis ayudaron
  ayudaba ayudabas ayudaba ayudábamos ayudabais ayudaban
  ayudaría ayudarías ayudaría ayudaríamos ayudaríais ayudarían
  ayudaré ayudarás ayudará ayudaremos ayudaréis ayudarán
 
-# buscar irregular look
+# buscar irregular look looked
  busco buscas busca buscamos buscáis buscan
  busqué buscaste buscó buscamos buscasteis buscaron
  buscaba buscabas buscaba buscábamos buscabais buscaban
  buscaría buscarías buscaría buscaríamos buscaríais buscarían
  buscaré buscarás buscará buscaremos buscaréis buscarán
 
-# caer irregular fall
+# caer irregular fall fell
  caigo caes cae caemos caéis caen
  caí caíste cayó caímos caísteis cayeron
  caía caías caía caíamos caíais caían
  caería caerías caería caeríamos caeríais caerían
  caeré caerás caerá caeremos caeréis caerán
 
-# cambiar regular change
+# cambiar regular change changed
  cambio cambias cambia cambiamos cambiáis cambian
  cambié cambiaste cambió cambiamos cambiasteis cambiaron
  cambiaba cambiabas cambiaba cambiábamos cambiabais cambiaban
  cambiaría cambiarías cambiaría cambiaríamos cambiaríais cambiarían
  cambiaré cambiarás cambiará cambiaremos cambiaréis cambiarán
 
-# comenzar irregular begin
+# comenzar irregular begin began
  comienzo comienzas comienza comenzamos comenzáis comienzan
  comencé comenzaste comenzó comenzamos comenzasteis comenzaron
  comenzaba comenzabas comenzaba comenzábamos comenzabais comenzaban
  comenzaría comenzarías comenzaría comenzaríamos comenzaríais comenzarían
  comenzaré comenzarás comenzará comenzaremos comenzaréis comenzarán
 
-# comprender regular understand
+# comprender regular understand understood
  comprendo comprendes comprende comprendemos comprendéis comprenden
  comprendí comprendiste comprendió comprendimos comprendisteis comprendieron
  comprendía comprendías comprendía comprendíamos comprendíais comprendían
  comprendería comprenderías comprendería comprenderíamos comprenderíais comprenderían
  comprenderé comprenderás comprenderá comprenderemos comprenderéis comprenderán
 
-# conocer irregular know
+# conocer irregular know knew
  conozco conoces conoce conocemos conocéis conocen
  conocí conociste conoció conocimos conocisteis conocieron
  conocía conocías conocía conocíamos conocíais conocían
  conocería conocerías conocería conoceríamos conoceríais conocerían
  conoceré conocerás conocerá conoceremos conoceréis conocerán
 
-# conseguir irregular get
+# conseguir irregular get got
  consigo consigues consigue conseguimos conseguís consiguen
  conseguí conseguiste consiguió conseguimos conseguisteis consiguieron
  conseguía conseguías conseguía conseguíamos conseguíais conseguían
  conseguiría conseguirías conseguiría conseguiríamos conseguiríais conseguirían
  conseguiré conseguirás conseguirá conseguiremos conseguiréis conseguirán
 
-# considerar regular consider
+# considerar regular consider considered
  considero consideras considera consideramos consideráis consideran
  consideré consideraste consideró consideramos considerasteis consideraron
  consideraba considerabas consideraba considerábamos considerabais consideraban
  consideraría considerarías consideraría consideraríamos consideraríais considerarían
  consideraré considerarás considerará consideraremos consideraréis considerarán
 
-# contar irregular count
+# contar irregular count counted
  cuento cuentas cuenta contamos contáis cuentan
  conté contaste contó contamos contasteis contaron
  contaba contabas contaba contábamos contabais contaban
  contaría contarías contaría contaríamos contaríais contarían
  contaré contarás contará contaremos contaréis contarán
 
-# convertir irregular turn
+# convertir irregular turn turned
  convierto conviertes convierte convertimos convertís convierten
  convertí convertiste convirtió convertimos convertisteis convirtieron
  convertía convertías convertía convertíamos convertíais convertían
  convertiría convertirías convertiría convertiríamos convertiríais convertirían
  convertiré convertirás convertirá convertiremos convertiréis convertirán
 
-# correr regular run
+# correr regular run ran
  corro corres corre corremos corréis corren
  corrí corriste corrió corrimos corristeis corrieron
  corría corrías corría corríamos corríais corrían
  correría correrías correría correríamos correríais correrían
  correré correrás correrá correremos correréis correrán
 
-# crear regular create
+# crear regular create created
  creo creas crea creamos creáis crean
  creé creaste creó creamos creasteis crearon
  creaba creabas creaba creábamos creabais creaban
  crearía crearías crearía crearíamos crearíais crearían
  crearé crearás creará crearemos crearéis crearán
 
-# creer irregular believe
+# creer irregular believe believed
  creo crees cree creemos creéis creen
  creí creíste creyó creímos creísteis creyeron
  creía creías creía creíamos creíais creían
  creería creerías creería creeríamos creeríais creerían
  creeré creerás creerá creeremos creeréis creerán
 
-# cumplir regular achieve
+# cumplir regular achieve achieved
  cumplo cumples cumple cumplimos cumplís cumplen
  cumplí cumpliste cumplió cumplimos cumplisteis cumplieron
  cumplía cumplías cumplía cumplíamos cumplíais cumplían
  cumpliría cumplirías cumpliría cumpliríamos cumpliríais cumplirían
  cumpliré cumplirás cumplirá cumpliremos cumpliréis cumplirán
 
-# dar irregular give
+# dar irregular give gave
  doy das da damos dais dan
  di diste dio dimos disteis dieron
  daba dabas daba dábamos dabais daban
  daría darías daría daríamos daríais darían
  daré darás dará daremos daréis darán
 
-# deber regular owe
+# deber regular owe owed
  debo debes debe debemos debéis deben
  debí debiste debió debimos debisteis debieron
  debía debías debía debíamos debíais debían
  debería deberías debería deberíamos deberíais deberían
  deberé deberás deberá deberemos deberéis deberán
 
-# decir irregular say
+# decir irregular say said
  digo dices dice decimos decís dicen
  dije dijiste dijo dijimos dijisteis dijeron
  decía decías decía decíamos decíais decían
  diría dirías diría diríamos diríais dirían
  diré dirás dirá diremos diréis dirán
 
-# dejar regular leave
+# dejar regular leave left
  dejo dejas deja dejamos dejáis dejan
  dejé dejaste dejó dejamos dejasteis dejaron
  dejaba dejabas dejaba dejábamos dejabais dejaban
  dejaría dejarías dejaría dejaríamos dejaríais dejarían
  dejaré dejarás dejará dejaremos dejaréis dejarán
 
-# descubrir regular discover
+# descubrir regular discover discovered
  descubro descubres descubre descubrimos descubrís descubren
  descubrí descubriste descubrió descubrimos descubristeis descubrieron
  descubría descubrías descubría descubríamos descubríais descubrían
  descubriría descubrirías descubriría descubriríamos descubriríais descubrirían
  descubriré descubrirás descubrirá descubriremos descubriréis descubrirán
 
-# dirigir irregular manage
+# dirigir irregular manage managed
  dirijo diriges dirige dirigimos dirigís dirigen
  dirigí dirigiste dirigió dirigimos dirigisteis dirigieron
  dirigía dirigías dirigía dirigíamos dirigíais dirigían
  dirigiría dirigirías dirigiría dirigiríamos dirigiríais dirigirían
  dirigiré dirigirás dirigirá dirigiremos dirigiréis dirigirán
 
-# empezar irregular begin
+# empezar irregular begin began
  empiezo empiezas empieza empezamos empezáis empiezan
  empecé empezaste empezó empezamos empezasteis empezaron
  empezaba empezabas empezaba empezábamos empezabais empezaban
  empezaría empezarías empezaría empezaríamos empezaríais empezarían
  empezaré empezarás empezará empezaremos empezaréis empezarán
 
-# encontrar irregular find
+# encontrar irregular find found
  encuentro encuentras encuentra encontramos encontráis encuentran
  encontré encontraste encontró encontramos encontrasteis encontraron
  encontraba encontrabas encontraba encontrábamos encontrabais encontraban
  encontraría encontrarías encontraría encontraríamos encontraríais encontrarían
  encontraré encontrarás encontrará encontraremos encontraréis encontrarán
 
-# entender irregular understand
+# entender irregular understand understood
  entiendo entiendes entiende entendemos entendéis entienden
  entendí entendiste entendió entendimos entendisteis entendieron
  entendía entendías entendía entendíamos entendíais entendían
  entendería entenderías entendería entenderíamos entenderíais entenderían
  entenderé entenderás entenderá entenderemos entenderéis entenderán
 
-# entrar regular enter
+# entrar regular enter entered
  entro entras entra entramos entráis entran
  entré entraste entró entramos entrasteis entraron
  entraba entrabas entraba entrábamos entrabais entraban
  entraría entrarías entraría entraríamos entraríais entrarían
  entraré entrarás entrará entraremos entraréis entrarán
 
-# escribir regular write
+# escribir regular write wrote
  escribo escribes escribe escribimos escribís escriben
  escribí escribiste escribió escribimos escribisteis escribieron
  escribía escribías escribía escribíamos escribíais escribían
  escribiría escribirías escribiría escribiríamos escribiríais escribirían
  escribiré escribirás escribirá escribiremos escribiréis escribirán
 
-# escuchar regular listen
+# escuchar regular listen listened
  escucho escuchas escucha escuchamos escucháis escuchan
  escuché escuchaste escuchó escuchamos escuchasteis escucharon
  escuchaba escuchabas escuchaba escuchábamos escuchabais escuchaban
  escucharía escucharías escucharía escucharíamos escucharíais escucharían
  escucharé escucharás escuchará escucharemos escucharéis escucharán
 
-# esperar regular wait
+# esperar regular wait waited
  espero esperas espera esperamos esperáis esperan
  esperé esperaste esperó esperamos esperasteis esperaron
  esperaba esperabas esperaba esperábamos esperabais esperaban
  esperaría esperarías esperaría esperaríamos esperaríais esperarían
  esperaré esperarás esperará esperaremos esperaréis esperarán
 
-# estar irregular be
+# estar irregular be was
  estoy estás está estamos estáis están
  estuve estuviste estuvo estuvimos estuvisteis estuvieron
  estaba estabas estaba estábamos estabais estaban
  estaría estarías estaría estaríamos estaríais estarían
  estaré estarás estará estaremos estaréis estarán
 
-# estudiar regular study
+# estudiar regular study studied
  estudio estudias estudia estudiamos estudiáis estudian
  estudié estudiaste estudió estudiamos estudiasteis estudiaron
  estudiaba estudiabas estudiaba estudiábamos estudiabais estudiaban
  estudiaría estudiarías estudiaría estudiaríamos estudiaríais estudiarían
  estudiaré estudiarás estudiará estudiaremos estudiaréis estudiarán
 
-# existir regular exist
+# existir regular exist existed
  existo existes existe existimos existís existen
  existí exististe existió existimos exististeis existieron
  existía existías existía existíamos existíais existían
  existiría existirías existiría existiríamos existiríais existirían
  existiré existirás existirá existiremos existiréis existirán
 
-# explicar irregular explain
+# explicar irregular explain explained
  explico explicas explica explicamos explicáis explican
  expliqué explicaste explicó explicamos explicasteis explicaron
  explicaba explicabas explicaba explicábamos explicabais explicaban
  explicaría explicarías explicaría explicaríamos explicaríais explicarían
  explicaré explicarás explicará explicaremos explicaréis explicarán
 
-# formar regular form
+# formar regular form formed
  formo formas forma formamos formáis forman
  formé formaste formó formamos formasteis formaron
  formaba formabas formaba formábamos formabais formaban
  formaría formarías formaría formaríamos formaríais formarían
  formaré formarás formará formaremos formaréis formarán
 
-# ganar     regular win
+# ganar     regular win won
  gano ganas gana ganamos ganáis ganan
  gané ganaste ganó ganamos ganasteis ganaron
  ganaba ganabas ganaba ganábamos ganabais ganaban
  ganaría ganarías ganaría ganaríamos ganaríais ganarían
  ganaré ganarás ganará ganaremos ganaréis ganarán
 
-# gustar regular like
+# gustar regular like liked
  gusto gustas gusta gustamos gustáis gustan
  gusté gustaste gustó gustamos gustasteis gustaron
  gustaba gustabas gustaba gustábamos gustabais gustaban
  gustaría gustarías gustaría gustaríamos gustaríais gustarían
  gustaré gustarás gustará gustaremos gustaréis gustarán
 
-# haber     irregular have
+# haber     irregular have had
  he has ha,hay hemos habéis han
  hube hubiste hubo hubimos hubisteis hubieron
  había habías había habíamos habíais habían
  habría habrías habría habríamos habríais habrían
  habré habrás habrá habremos habréis habrán
 
-# hablar regular speak
+# hablar regular speak spoke
  hablo hablas habla hablamos habláis hablan
  hablé hablaste habló hablamos hablasteis hablaron
  hablaba hablabas hablaba hablábamos hablabais hablaban
  hablaría hablarías hablaría hablaríamos hablaríais hablarían
  hablaré hablarás hablará hablaremos hablaréis hablarán
 
-# hacer irregular do
+# hacer irregular do did
  hago haces hace hacemos hacéis hacen
  hice hiciste hizo hicimos hicisteis hicieron
  hacía hacías hacía hacíamos hacíais hacían
  haría harías haría haríamos haríais harían
  haré harás hará haremos haréis harán
 
-# intentar regular try
+# intentar regular try tried
  intento intentas intenta intentamos intentáis intentan
  intenté intentaste intentó intentamos intentasteis intentaron
  intentaba intentabas intentaba intentábamos intentabais intentaban
  intentaría intentarías intentaría intentaríamos intentaríais intentarían
  intentaré intentarás intentará intentaremos intentaréis intentarán
 
-# ir regular go
+# ir regular go went
  voy vas va vamos vais van
  fui fuiste fue fuimos fuisteis fueron
  iba ibas iba íbamos ibais iban
@@ -320,126 +320,126 @@
  jugaría jugarías jugaría jugaríamos jugaríais jugarían
  jugaré jugarás jugará jugaremos jugaréis jugarán
 
-# leer irregular read
+# leer irregular read read
  leo lees lee leemos leéis leen
  leí leíste leyó leímos leísteis leyeron
  leía leías leía leíamos leíais leían
  leería leerías leería leeríamos leeríais leerían
  leeré leerás leerá leeremos leeréis leerán
 
-# levantar regular raise
+# levantar regular raise raised
  levanto levantas levanta levantamos levantáis levantan
  levanté levantaste levantó levantamos levantasteis levantaron
  levantaba levantabas levantaba levantábamos levantabais levantaban
  levantaría levantarías levantaría levantaríamos levantaríais levantarían
  levantaré levantarás levantará levantaremos levantaréis levantarán
 
-# llamar regular call
+# llamar regular call called
  llamo llamas llama llamamos llamáis llaman
  llamé llamaste llamó llamamos llamasteis llamaron
  llamaba llamabas llamaba llamábamos llamabais llamaban
  llamaría llamarías llamaría llamaríamos llamaríais llamarían
  llamaré llamarás llamará llamaremos llamaréis llamarán
 
-# llegar irregular arrive
+# llegar irregular arrive arrived
  llego llegas llega llegamos llegáis llegan
  llegué llegaste llegó llegamos llegasteis llegaron
  llegaba llegabas llegaba llegábamos llegabais llegaban
  llegaría llegarías llegaría llegaríamos llegaríais llegarían
  llegaré llegarás llegará llegaremos llegaréis llegarán
 
-# llevar regular take
+# llevar regular take took
  llevo llevas lleva llevamos lleváis llevan
  llevé llevaste llevó llevamos llevasteis llevaron
  llevaba llevabas llevaba llevábamos llevabais llevaban
  llevaría llevarías llevaría llevaríamos llevaríais llevarían
  llevaré llevarás llevará llevaremos llevaréis llevarán
 
-# lograr regular reach
+# lograr regular reach reached
  logro logras logra logramos lográis logran
  logré lograste logró logramos lograsteis lograron
  lograba lograbas lograba lográbamos lograbais lograban
  lograría lograrías lograría lograríamos lograríais lograrían
  lograré lograrás logrará lograremos lograréis lograrán
 
-# mantener irregular hold
+# mantener irregular hold held
  mantengo mantienes mantiene mantenemos mantenéis mantienen
  mantuve mantuviste mantuvo mantuvimos mantuvisteis mantuvieron
  mantenía mantenías mantenía manteníamos manteníais mantenían
  mantendría mantendrías mantendría mantendríamos mantendríais mantendrían
  mantendré mantendrás mantendrá mantendremos mantendréis mantendrán
 
-# mirar regular look
+# mirar regular look looked
  miro miras mira miramos miráis miran
  miré miraste miró miramos mirasteis miraron
  miraba mirabas miraba mirábamos mirabais miraban
  miraría mirarías miraría miraríamos miraríais mirarían
  miraré mirarás mirará miraremos miraréis mirarán
 
-# morir irregular die
+# morir irregular die died
  muero mueres muere morimos morís mueren
  morí moriste murió morimos moristeis murieron
  moría morías moría moríamos moríais morían
  moriría morirías moriría moriríamos moriríais morirían
  moriré morirás morirá moriremos moriréis morirán
 
-# nacer irregular be
+# nacer irregular be_born was_born
  nazco naces nace nacemos nacéis nacen
  nací naciste nació nacimos nacisteis nacieron
  nacía nacías nacía nacíamos nacíais nacían
  nacería nacerías nacería naceríamos naceríais nacerían
  naceré nacerás nacerá naceremos naceréis nacerán
 
-# necesitar regular need
+# necesitar regular need needed
  necesito necesitas necesita necesitamos necesitáis necesitan
  necesité necesitaste necesitó necesitamos necesitasteis necesitaron
  necesitaba necesitabas necesitaba necesitábamos necesitabais necesitaban
  necesitaría necesitarías necesitaría necesitaríamos necesitaríais necesitarían
  necesitaré necesitarás necesitará necesitaremos necesitaréis necesitarán
 
-# ocurrir regular happen
+# ocurrir regular happen happened
  ocurro ocurres ocurre ocurrimos ocurrís ocurren
  ocurrí ocurriste ocurrió ocurrimos ocurristeis ocurrieron
  ocurría ocurrías ocurría ocurríamos ocurríais ocurrían
  ocurriría ocurrirías ocurriría ocurriríamos ocurriríais ocurrirían
  ocurriré ocurrirás ocurrirá ocurriremos ocurriréis ocurrirán
 
-# ofrecer irregular offer
+# ofrecer irregular offer offered
  ofrezco ofreces ofrece ofrecemos ofrecéis ofrecen
  ofrecí ofreciste ofreció ofrecimos ofrecisteis ofrecieron
  ofrecía ofrecías ofrecía ofrecíamos ofrecíais ofrecían
  ofrecería ofrecerías ofrecería ofreceríamos ofreceríais ofrecerían
  ofreceré ofrecerás ofrecerá ofreceremos ofreceréis ofrecerán
 
-# oír irregular hear
+# oír irregular hear heard
  oigo oyes oye oímos oís oyen
  oí oíste oyó oímos oísteis oyeron
  oía oías oía oíamos oíais oían
  oiría oirías oiría oiríamos oiríais oirían
  oiré oirás oirá oiremos oiréis oirán
 
-# pagar irregular pay
+# pagar irregular pay paid
  pago pagas paga pagamos pagáis pagan
  pagué pagaste pagó pagamos pagasteis pagaron
  pagaba pagabas pagaba pagábamos pagabais pagaban
  pagaría pagarías pagaría pagaríamos pagaríais pagarían
  pagaré pagarás pagará pagaremos pagaréis pagarán
 
-# parar regular stop
+# parar regular stop stopped
  paro paras para paramos paráis paran
  paré paraste paró paramos parasteis pararon
  paraba parabas paraba parábamos parabais paraban
  pararía pararías pararía pararíamos pararíais pararían
  pararé pararás parará pararemos pararéis pararán
 
-# parecer irregular seem
+# parecer irregular seem seemed
  parezco pareces parece parecemos parecéis parecen
  parecí pareciste pareció parecimos parecisteis parecieron
  parecía parecías parecía parecíamos parecíais parecían
  parecería parecerías parecería pareceríamos pareceríais parecerían
  pareceré parecerás parecerá pareceremos pareceréis parecerán
 
-# partir regular cut
+# partir regular cut cut
  parto partes parte partimos partís parten
  partí partiste partió partimos partisteis partieron
  partía partías partía partíamos partíais partían
@@ -453,133 +453,133 @@
  pasaría pasarías pasaría pasaríamos pasaríais pasarían
  pasaré pasarás pasará pasaremos pasaréis pasarán
 
-# pedir irregular ask
+# pedir irregular ask asked
  pido pides pide pedimos pedís piden
  pedí pediste pidió pedimos pedisteis pidieron
  pedía pedías pedía pedíamos pedíais pedían
  pediría pedirías pediría pediríamos pediríais pedirían
  pediré pedirás pedirá pediremos pediréis pedirán
 
-# perder irregular lose
+# perder irregular lose lost
  pierdo pierdes pierde perdemos perdéis pierden
  perdí perdiste perdió perdimos perdisteis perdieron
  perdía perdías perdía perdíamos perdíais perdían
  perdería perderías perdería perderíamos perderíais perderían
  perderé perderás perderá perderemos perderéis perderán
 
-# permitir regular allow
+# permitir regular allow allowed
  permito permites permite permitimos permitís permiten
  permití permitiste permitió permitimos permitisteis permitieron
  permitía permitías permitía permitíamos permitíais permitían
  permitiría permitirías permitiría permitiríamos permitiríais permitirían
  permitiré permitirás permitirá permitiremos permitiréis permitirán
 
-# poder irregular be
+# poder irregular be_able_to was_able_to
  puedo puedes puede podemos podéis pueden
  pude pudiste pudo pudimos pudisteis pudieron
  podía podías podía podíamos podíais podían
  podría podrías podría podríamos podríais podrían
  podré podrás podrá podremos podréis podrán
 
-# poner irregular put
+# poner irregular put put
  pongo pones pone ponemos ponéis ponen
  puse pusiste puso pusimos pusisteis pusieron
  ponía ponías ponía poníamos poníais ponían
  pondría pondrías pondría pondríamos pondríais pondrían
  pondré pondrás pondrá pondremos pondréis pondrán
 
-# preguntar regular ask
+# preguntar regular ask asked
  pregunto preguntas pregunta preguntamos preguntáis preguntan
  pregunté preguntaste preguntó preguntamos preguntasteis preguntaron
  preguntaba preguntabas preguntaba preguntábamos preguntabais preguntaban
  preguntaría preguntarías preguntaría preguntaríamos preguntaríais preguntarían
  preguntaré preguntarás preguntará preguntaremos preguntaréis preguntarán
 
-# presentar regular introduce
+# presentar regular introduce introduced
  presento presentas presenta presentamos presentáis presentan
  presenté presentaste presentó presentamos presentasteis presentaron
  presentaba presentabas presentaba presentábamos presentabais presentaban
  presentaría presentarías presentaría presentaríamos presentaríais presentarían
  presentaré presentarás presentará presentaremos presentaréis presentarán
 
-# producir irregular produce
+# producir irregular produce produced
  produzco produces produce producimos producís producen
  produje produjiste produjo produjimos produjisteis produjeron
  producía producías producía producíamos producíais producían
  produciría producirías produciría produciríamos produciríais producirían
  produciré producirás producirá produciremos produciréis producirán
 
-# quedar regular be
+# quedar regular be_XXXX XXXX
  quedo quedas queda quedamos quedáis quedan
  quedé quedaste quedó quedamos quedasteis quedaron
  quedaba quedabas quedaba quedábamos quedabais quedaban
  quedaría quedarías quedaría quedaríamos quedaríais quedarían
  quedaré quedarás quedará quedaremos quedaréis quedarán
 
-# querer irregular want
+# querer irregular want wanted
  quiero quieres quiere queremos queréis quieren
  quise quisiste quiso quisimos quisisteis quisieron
  quería querías quería queríamos queríais querían
  querría querrías querría querríamos querríais querrían
  querré querrás querrá querremos querréis querrán
 
-# realizar irregular carry
+# realizar irregular carry carried
  realizo realizas realiza realizamos realizáis realizan
  realicé realizaste realizó realizamos realizasteis realizaron
  realizaba realizabas realizaba realizábamos realizabais realizaban
  realizaría realizarías realizaría realizaríamos realizaríais realizarían
  realizaré realizarás realizará realizaremos realizaréis realizarán
 
-# recibir regular receive
+# recibir regular receive received
  recibo recibes recibe recibimos recibís reciben
  recibí recibiste recibió recibimos recibisteis recibieron
  recibía recibías recibía recibíamos recibíais recibían
  recibiría recibirías recibiría recibiríamos recibiríais recibirían
  recibiré recibirás recibirá recibiremos recibiréis recibirán
 
-# reconocer irregular recognize
+# reconocer irregular recognize recognized
  reconozco reconoces reconoce reconocemos reconocéis reconocen
  reconocí reconociste reconoció reconocimos reconocisteis reconocieron
  reconocía reconocías reconocía reconocíamos reconocíais reconocían
  reconocería reconocerías reconocería reconoceríamos reconoceríais reconocerían
  reconoceré reconocerás reconocerá reconoceremos reconoceréis reconocerán
 
-# recordar irregular remember
+# recordar irregular remember remembered
  recuerdo recuerdas recuerda recordamos recordáis recuerdan
  recordé recordaste recordó recordamos recordasteis recordaron
  recordaba recordabas recordaba recordábamos recordabais recordaban
  recordaría recordarías recordaría recordaríamos recordaríais recordarían
  recordaré recordarás recordará recordaremos recordaréis recordarán
 
-# resultar regular turn
+# resultar regular turn turned
  resulto resultas resulta resultamos resultáis resultan
  resulté resultaste resultó resultamos resultasteis resultaron
  resultaba resultabas resultaba resultábamos resultabais resultaban
  resultaría resultarías resultaría resultaríamos resultaríais resultarían
  resultaré resultarás resultará resultaremos resultaréis resultarán
 
-# saber irregular know
+# saber irregular know knew
  sé sabes sabe sabemos sabéis saben
  supe supiste supo supimos supisteis supieron
  sabía sabías sabía sabíamos sabíais sabían
  sabría sabrías sabría sabríamos sabríais sabrían
  sabré sabrás sabrá sabremos sabréis sabrán
 
-# sacar irregular take
+# sacar irregular take took
  saco sacas saca sacamos sacáis sacan
  saqué sacaste sacó sacamos sacasteis sacaron
  sacaba sacabas sacaba sacábamos sacabais sacaban
  sacaría sacarías sacaría sacaríamos sacaríais sacarían
  sacaré sacarás sacará sacaremos sacaréis sacarán
 
-# salir irregular go
+# salir irregular go_out went_out
  salgo sales sale salimos salís salen
  salí saliste salió salimos salisteis salieron
  salía salías salía salíamos salíais salían
  saldría saldrías saldría saldríamos saldríais saldrían
  saldré saldrás saldrá saldremos saldréis saldrán
 
-# seguir irregular follow
+# seguir irregular follow followed
  sigo sigues sigue seguimos seguís siguen
  seguí seguiste siguió seguimos seguisteis siguieron
  seguía seguías seguía seguíamos seguíais seguían
@@ -593,108 +593,107 @@
  sentiría sentirías sentiría sentiríamos sentiríais sentirían
  sentiré sentirás sentirá sentiremos sentiréis sentirán
 
-# ser irregular be
+# ser irregular be was
  soy eres es somos sois son
  fui fuiste fue fuimos fuisteis fueron
  era eras era éramos erais eran
  sería serías sería seríamos seríais serían
  seré serás será seremos seréis serán
 
-# servir irregular serve
+# servir irregular serve served
  sirvo sirves sirve servimos servís sirven
  serví serviste sirvió servimos servisteis sirvieron
  servía servías servía servíamos servíais servían
  serviría servirías serviría serviríamos serviríais servirían
  serviré servirás servirá serviremos serviréis servirán
 
-# suponer irregular suppose
+# suponer irregular suppose supposed
  supongo supones supone suponemos suponéis suponen
  supuse supusiste supuso supusimos supusisteis supusieron
  suponía suponías suponía suponíamos suponíais suponían
  supondría supondrías supondría supondríamos supondríais supondrían
  supondré supondrás supondrá supondremos supondréis supondrán
 
-# tener irregular have
+# tener irregular have had
  tengo tienes tiene tenemos tenéis tienen
  tuve tuviste tuvo tuvimos tuvisteis tuvieron
  tenía tenías tenía teníamos teníais tenían
  tendría tendrías tendría tendríamos tendríais tendrían
  tendré tendrás tendrá tendremos tendréis tendrán
 
-# terminar regular end
+# terminar regular end ended
  termino terminas termina terminamos termináis terminan
  terminé terminaste terminó terminamos terminasteis terminaron
  terminaba terminabas terminaba terminábamos terminabais terminaban
  terminaría terminarías terminaría terminaríamos terminaríais terminarían
  terminaré terminarás terminará terminaremos terminaréis terminarán
 
-# tocar irregular touch
+# tocar irregular touch touched
  toco tocas toca tocamos tocáis tocan
  toqué tocaste tocó tocamos tocasteis tocaron
  tocaba tocabas tocaba tocábamos tocabais tocaban
  tocaría tocarías tocaría tocaríamos tocaríais tocarían
  tocaré tocarás tocará tocaremos tocaréis tocarán
 
-# tomar regular take
+# tomar regular take took
  tomo tomas toma tomamos tomáis toman
  tomé tomaste tomó tomamos tomasteis tomaron
  tomaba tomabas tomaba tomábamos tomabais tomaban
  tomaría tomarías tomaría tomaríamos tomaríais tomarían
  tomaré tomarás tomará tomaremos tomaréis tomarán
 
-# trabajar regular work
+# trabajar regular work worked
  trabajo trabajas trabaja trabajamos trabajáis trabajan
  trabajé trabajaste trabajó trabajamos trabajasteis trabajaron
  trabajaba trabajabas trabajaba trabajábamos trabajabais trabajaban
  trabajaría trabajarías trabajaría trabajaríamos trabajaríais trabajarían
  trabajaré trabajarás trabajará trabajaremos trabajaréis trabajarán
 
-# traer irregular bring
+# traer irregular bring brought
  traigo traes trae traemos traéis traen
  traje trajiste trajo trajimos trajisteis trajeron
  traía traías traía traíamos traíais traían
  traería traerías traería traeríamos traeríais traerían
  traeré traerás traerá traeremos traeréis traerán
 
-# tratar regular treat
+# tratar regular treat treated
  trato tratas trata tratamos tratáis tratan
  traté trataste trató tratamos tratasteis trataron
  trataba tratabas trataba tratábamos tratabais trataban
  trataría tratarías trataría trataríamos trataríais tratarían
  trataré tratarás tratará trataremos trataréis tratarán
 
-# utilizar irregular use
+# utilizar irregular use used
  utilizo utilizas utiliza utilizamos utilizáis utilizan
  utilicé utilizaste utilizó utilizamos utilizasteis utilizaron
  utilizaba utilizabas utilizaba utilizábamos utilizabais utilizaban
  utilizaría utilizarías utilizaría utilizaríamos utilizaríais utilizarían
  utilizaré utilizarás utilizará utilizaremos utilizaréis utilizarán
 
-# venir irregular come
+# venir irregular come came
  vengo vienes viene venimos venís vienen
  vine viniste vino vinimos vinisteis vinieron
  venía venías venía veníamos veníais venían
  vendría vendrías vendría vendríamos vendríais vendrían
  vendré vendrás vendrá vendremos vendréis vendrán
 
-# ver irregular see
+# ver irregular see saw
  veo ves ve vemos veis ven
  vi viste vio vimos visteis vieron
  veía veías veía veíamos veíais veían
  vería verías vería veríamos veríais verían
  veré verás verá veremos veréis verán
 
-# vivir regular live
+# vivir regular live lived
  vivo vives vive vivimos vivís viven
  viví viviste vivió vivimos vivisteis vivieron
  vivía vivías vivía vivíamos vivíais vivían
  viviría vivirías viviría viviríamos viviríais vivirían
  viviré vivirás vivirá viviremos viviréis vivirán
 
-# volver irregular return
+# volver irregular return returned
  vuelvo vuelves vuelve volvemos volvéis vuelven
  volví volviste volvió volvimos volvisteis volvieron
  volvía volvías volvía volvíamos volvíais volvían
  volvería volverías volvería volveríamos volveríais volverían
  volveré volverás volverá volveremos volveréis volverán
-

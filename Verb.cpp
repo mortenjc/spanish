@@ -1,9 +1,9 @@
 
 #include <Verb.h>
+#include <Trace.h>
 #include <fstream>
 #include <stdio.h>
 #include <wchar.h>
-
 
 /// \brief count nonprintable chars for correct alignment of printf
 int Verb::l(std::string string) {
@@ -27,6 +27,7 @@ std::vector<Verb::VerbTuple> Verb::loadfile(std::string filename) {
   std::string verb, pres, pret;
 
   while (infile >> verb >> pres >> pret) {
+    trace.trace("Adding verb %s", verb);
     Verb::VerbTuple tuple(verb, pres, pret);
     result.push_back(tuple);
   }

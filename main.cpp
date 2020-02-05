@@ -4,7 +4,6 @@
 #include <random>
 
 int main(int argc, char * argv[]) {
-
   Verb verb;
   auto list = verb.loadfile(argv[1]);
   Quizz quizz(list);
