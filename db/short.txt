@@ -1,21 +1,19 @@
-# abrir regular open opened
- abriendo abierto
+ # 1 of 3 . .
+ abrir regular open opened abriendo abierto
  abro abres abre abrimos abrís abren
  abrí abriste abrió abrimos abristeis abrieron
  abría abrías abría abríamos abríais abrían
  abriría abrirías abriría abriríamos abriríais abrirían
  abriré abrirás abrirá abriremos abriréis abrirán
-
-# acabar regular finish finished
- acabando acabado
+ # 2 of 3 . .
+ acabar regular finish finished acabando acabado
  acabo acabas acaba acabamos acabáis acaban
  acabé acabaste acabó acabamos acabasteis acabaron
  acababa acababas acababa acabábamos acababais acababan
  acabaría acabarías acabaría acabaríamos acabaríais acabarían
  acabaré acabarás acabará acabaremos acabaréis acabarán
-
-# aceptar regular accept accepted
- aceptando aceptado
+ # 3 of 3 . .
+ aceptar regular accept accepted aceptando aceptado
  acepto aceptas acepta aceptamos aceptáis aceptan
  acepté aceptaste aceptó aceptamos aceptasteis aceptaron
  aceptaba aceptabas aceptaba aceptábamos aceptabais aceptaban
