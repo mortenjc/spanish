@@ -23,10 +23,12 @@ std::vector<Verb> & Conjugation::loadFile(std::string FileName) {
     std::string a, b, c, d, e, f;
     if (!(iss >> a >> b >> c >> d >> e >> f)) {
       printf("Error loading file in line %d\n", LineNum);
+      printf("%s %s %s %s %s %s\n", a.c_str(), b.c_str(), c.c_str(),
+                                     d.c_str(), e.c_str(), f.c_str());
       break;
     }
     // printf("%s %s %s %s %s %s\n", a.c_str(), b.c_str(), c.c_str(),
-    //                               d.c_str(), e.c_str(), f.c_str());
+    //                                d.c_str(), e.c_str(), f.c_str());
 
     std::vector<std::string> conjug{a, b, c, d, e, f};
 

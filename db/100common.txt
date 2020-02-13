@@ -314,7 +314,7 @@
  iría irías iría iríamos iríais irían
  iré irás irá iremos iréis irán
 # aa of 100 . .
- jugar irregular play xxx yyy
+ jugar irregular play played xxx yyy
  juego juegas juega jugamos jugáis juegan
  jugué jugaste jugó jugamos jugasteis jugaron
  jugaba jugabas jugaba jugábamos jugabais jugaban
@@ -447,7 +447,7 @@
  partiría partirías partiría partiríamos partiríais partirían
  partiré partirás partirá partiremos partiréis partirán
 # aa of 100 . .
- pasar regular pass xxx yyy
+ pasar regular pass passed xxx yyy
  paso pasas pasa pasamos pasáis pasan
  pasé pasaste pasó pasamos pasasteis pasaron
  pasaba pasabas pasaba pasábamos pasabais pasaban
@@ -587,7 +587,7 @@
  seguiría seguirías seguiría seguiríamos seguiríais seguirían
  seguiré seguirás seguirá seguiremos seguiréis seguirán
 # aa of 100 . .
- sentir irregular feel xxx yyy
+ sentir irregular feel felt xxx yyy
  siento sientes siente sentimos sentís sienten
  sentí sentiste sintió sentimos sentisteis sintieron
  sentía sentías sentía sentíamos sentíais sentían
